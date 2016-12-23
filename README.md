@@ -2,6 +2,8 @@
 Automation of IBM Personal Comunications via Pcomm API
 
 To automate tasks related to RACF Security through a web application, i’ve used a structure like this:
+
+![alt tag](https://github.com/barric0de/RACF_Automation/blob/master/schema.png)
  
 
 Web Application: HTTP forms where you define the actions that you want to automate. Everything that you can do through ISPF panels, could be automatable. In my case, the users can, among others, submit JCL jobs(predefined templates), modify user’s group membership, or create new users accounts.

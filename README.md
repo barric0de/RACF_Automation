@@ -1,5 +1,5 @@
 # RACF_Automation
-Automation of IBM Personal Comunications via Pcomm API
+Automation of IBM Personal Comunications via Pcomm API ( based on corion http://www.perlmonks.org/bare/?node_id=611095 )
 
 To automate tasks related to RACF Security through a web application, i’ve used a structure like this:
 
